@@ -6,6 +6,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "louis.lecut@gmail.com",
-  "license": "CC-BY-NC-SA-3.0"
+  "author": "louis.lecut@gmail.com"
 }
